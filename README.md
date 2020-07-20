@@ -7,7 +7,7 @@
 <p>Para este trabalho usei as ferramentas Bootstrap, Laravel e jQuery.</p>
 <p>Usei o Bootstrap de forma a criar um design elegante, moderno e responsivo para o site.</p> 
 <p>Usei a framework Laravel para criar um site robusto e escalável. A sua arquitetura MVC permite criar aplicações web seguras e com um nível de complexidade adequado. Além disso, também decidi usar Laravel para aumentar os meus conhecimentos na área de desenvolvimento web.</p>
-<p>Finalmente, também usei o jQuery,que é uma biblioteca de JavaScript. Foi usado principalmente para aumentar a interatividade entre o utilizador e o site. Foi aplicado na classificação de comentários e em mensagens informativas.</p>
+<p>Finalmente, também usei o jQuery, que é uma biblioteca de JavaScript. Foi usado principalmente para aumentar a interatividade entre o utilizador e o site. Foi aplicado na classificação de comentários e em mensagens informativas.</p>
 
 <p>Tal como os trabalhos anteriores, este trabalho foi feito numa máquina virtual.</p>
 
