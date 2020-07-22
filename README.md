@@ -13,16 +13,16 @@
 
 <h1>Imagens:</h1>
 
-![image](/screenshots/lista_produtos.png?raw=true "Início")
+![image](/screenshots/lista_produtos.png?raw=true "Lista de produtos")
 
-![image](/screenshots/pagina_produto.png?raw=true "Artigo")
+![image](/screenshots/pagina_produto.png?raw=true "Página de produto")
 
-![image](/screenshots/carrinho.png?raw=true "Galeria")
+![image](/screenshots/carrinho.png?raw=true "Carrinho")
 
-![image](/screenshots/checkout.png?raw=true "Navegação")
+![image](/screenshots/checkout.png?raw=true "Checkout")
 
-![image](/screenshots/comentario.png?raw=true "Lista de artigos")
+![image](/screenshots/comentario.png?raw=true "Comentário")
 
-![image](/screenshots/pesquisa.png?raw=true "Contactos")
+![image](/screenshots/pesquisa.png?raw=true "Pesquisa")
 
-![image](/screenshots/perfil.png?raw=true "Sobre")
+![image](/screenshots/perfil.png?raw=true "Perfil")
