@@ -11,6 +11,8 @@
 
 <p>Tal como os trabalhos anteriores, este trabalho foi feito numa máquina virtual.</p>
 
+<p><b>Nota:</b> A pasta pública do Laravel é a "public_html" em vez da pasta "public" padrão.</p>
+
 <h1>Imagens:</h1>
 
 ![image](/screenshots/lista_produtos.png?raw=true "Lista de produtos")
